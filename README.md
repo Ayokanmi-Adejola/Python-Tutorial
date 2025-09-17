@@ -4,9 +4,6 @@
 
 A modern and responsive portfolio website showcasing my skills, projects, and professional experience. Built with React, TypeScript, and Tailwind CSS, it features a clean design with smooth animations and a user-friendly interface.
 
-## 🔗 [Live Demo](https://ayokanmi-adejola.netlify.app/)
-
-
 ## ✨ Features
 
 - **Responsive Design**: Optimized for all devices from mobile to desktop
@@ -114,3 +111,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayokanmi_Adejola-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayokanmi-adejola)
 [![Twitter](https://img.shields.io/badge/Twitter-@AyoAdejola100-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/AyoAdejola100)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ayokanmi_Adejola-green?style=flat-square&logo=netlify)](https://ayokanmi-adejola.netlify.app/)
+
